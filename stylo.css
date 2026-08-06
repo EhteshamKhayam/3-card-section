@@ -1,0 +1,31 @@
+.cards .card a{
+    text-align: center ;
+    background-color: #d3b253;
+    border: #ffffff;border-radius: 5px; border: 50px;
+    padding: 7px 7px;
+    text-decoration: none;
+color: #ffffff;
+}
+
+.cards .card{
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+background-color: #ffffff;
+margin-bottom: 50px;
+margin-inline-end: 30px;
+padding: 50px;
+}
+}
+.cards .card p{
+margin-bottom: 70px;
+margin-inline: 30px;
+}
+
+.cards{
+text-align: center ;
+display: flex;
+padding-inline: 100px;
+padding-top: 100px;
+font-family: 'Arial', sans-serif;
+}
+
+.body{background-color: #ffffff;}
